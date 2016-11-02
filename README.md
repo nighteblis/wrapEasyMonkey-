@@ -3,6 +3,7 @@
 代码已经不在更新，建议python编写android 自动化脚本， 可以参考 https://github.com/xiaocong/uiautomator。 
 或者通过apium python client。
 
+此sample如果无法使用，建议先确认adb链接和您的机器是否有root权限（没有root权限可能影响viewhierachy server使用.）
 
 Api(libraries) based monkeyrunner , easy to build the android automation test script.  Support identifing the ui element by Id or by text.
 
